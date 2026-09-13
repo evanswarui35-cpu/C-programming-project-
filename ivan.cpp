@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main()
+{
+    // Name: Evans Warui Mwangi
+    // Reg No: CT100/G/30638/26
+
+    printf("Units Offered This Semester\n");
+    printf("1. Introduction to programming\n");
+    printf("2. Data structure\n");
+    printf("3. Computer Systems\n");
+    printf("4. Database systems\n");
+    printf("5. Software engineering\n");
+
+    return 0;
+}
